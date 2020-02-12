@@ -1,5 +1,6 @@
 # Image-Caption
 Image Caption: LSTM and Soft Attention, @ Fudan University, 2019, Statistical Learning and Machine Learning
+Author: Weijie Deng, Yujian Xiong
 
 Data Preparation:
 1. images/: the original images in Flickr30k dataset.
